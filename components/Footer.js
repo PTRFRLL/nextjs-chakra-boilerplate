@@ -13,7 +13,7 @@ export default function Footer() {
       mt="auto"
     >
       <Text fontSize="sm">Made by @PTRFRLL</Text>
-      <Link fontSize="sm" href={"https://github.com/PTRFRLL/hype-bot-frontend"} isExternal>
+      <Link fontSize="sm" href={"https://github.com/PTRFRLL/nextjs-chakra-boilerplate"} isExternal>
         Github <ExternalLinkIcon mx="2px" />
       </Link>
     </Flex>
